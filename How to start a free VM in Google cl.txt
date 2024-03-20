@@ -1,0 +1,7 @@
+How to start a free VM in Google cloud
+1)Sign in to google cloud
+2)Go to console
+3)Compute engine : Create a VM
+4)Enable API
+5)Create VM instance
+6)Choosing Machine type 
